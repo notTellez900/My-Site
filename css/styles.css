@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #2C3333;
+}
+
+h1 {
+    color: aliceblue;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+h3 {
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+}
+
+p {
+    color: aliceblue;
+}
+
+.bottom-separator {
+    border-style: dotted none none;
+    border-color: #735F32;
+    border-width: 10px;
+    width: 4%;
+}
+
+.top-separator {
+    border-style: dotted none none;
+    border-color: #2C3333;
+    border-width: 10px;
+    width: 4%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.top-container {
+    background-color: #000000;
+    padding-top: 100px;
+    position: relative;
+    
+}
+
+.profile{
+    background-color: #2C3333;
+}
+
+.middle-container {
+    background-color: #282A3A;
+    margin: 80px 0 0 0;
+}
+
+.contact-me {
+    background-color: #735F32;
+    padding: 50px;
+}
+
+.bottom-container{
+    background-color: #C69749;
+    padding: 20px;
+}
+
+.footer-link {
+    color: #735F32;
+    margin: 50px;
+    text-decoration: none;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    width: 50%;
+}
+
+.program-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.carpa-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #282A3A;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #000000;
+    text-decoration: none;
+  }
+
+.profile-info {
+    width: 30%;
+    margin: auto;
+}
+
+.last-paragraph{
+    margin-bottom: 70px;
+}
+
+.copyright {
+    font-size: 0.75 rem;
+    padding: 20px 0;
+}
+/*
+.code-skill-description {
+    clear: left;
+}
+
+.code-skill-description-right {
+    clear: right;
+}*/
